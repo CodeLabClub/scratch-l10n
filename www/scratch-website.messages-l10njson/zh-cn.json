@@ -22,7 +22,7 @@
     "messages.remixText": "{profileLink} 把你的作品 {remixedProjectLink} 改编为 {projectLink}",
     "messages.scratcherInvite": "你受邀成为一名Scratcher！ {learnMore}！",
     "messages.scratchTeamTitle": "来自 Scratch 团队的消息",
-    "messages.studioActivityText": "今天 {studioLink} 有新的动态",
+    "messages.studioActivityText": "{studioLink} 有新的动态",
     "messages.studioCommentReply": "{profileLink} 回复了你对 {commentLink} 的评论",
     "messages.userJoinText": "欢迎来到 Scratch！创作作品或发表评论之后，你会在这里看到关于它们的消息。 你可以 {exploreLink} 或者 {makeProjectLink}。",
     "messages.userJoinMakeProject": "创作一个作品",
