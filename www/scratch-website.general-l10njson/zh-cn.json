@@ -233,7 +233,7 @@
     "report.error": "你的消息发送失败。请重试。",
     "report.project": "举报作品",
     "report.projectInstructions": "请从下拉菜单中选择举报的原因，该作品有侮辱性或不当内容，还是有其他违反{CommunityGuidelinesLink}的情况。",
-    "report.CommunityGuidelinesLinkText": "Scratch 社区规范",
+    "report.CommunityGuidelinesLinkText": "Codelab 社区规范",
     "report.reasonPlaceHolder": "选择一个原因",
     "report.reasonCopy": "根本只是复制某个作品",
     "report.reasonUncredited": "未经同意使用的图片/音乐",
