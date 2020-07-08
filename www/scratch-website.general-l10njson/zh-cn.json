@@ -265,7 +265,7 @@
     "comments.reportModal.reported": "评论已被举报，并已通知 Codelab 团队。",
     "comments.reportModal.prompt": "你确定要举报该评论吗？",
     "comments.deleteModal.title": "删除评论",
-    "comments.deleteModal.body": "要删除该评论吗？如果评论含有恶意或不当语言，请点击「举报」并通知Scratch团队。",
+    "comments.deleteModal.body": "要删除该评论吗？如果评论含有恶意或不当语言，请点击「举报」并通知 Codelab 团队。",
     "comments.reply": "回复",
     "comments.isEmpty": "不能发表空的评论",
     "comments.isFlood": "哇，你发表评论的速度似乎太快了。再次发表评论前，请稍等一下。",
